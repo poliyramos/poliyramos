@@ -6,18 +6,24 @@ This GitHub repository serves as a space where I share projects, learning experi
 
 
 
+
+<a href="ramospoliana00@gmail.com">
+  <img align="left" alt="Poliana Ramos | Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a>
+
+[![GitHub poliyramos](https://img.shields.io/github/followers/poliyramos?label=follow&style=social)](https://github.com/poliyramos)
+
+<div>
+<a href="https://www.linkedin.com/in/poliana-ramos-80ab63254"target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+</div>
+
+
 ##
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Poli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Poli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Poli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-##
-
-<div>
-<a href="https://www.linkedin.com/in/poliana-ramos-80ab63254"target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
 </div>
 
 ##
