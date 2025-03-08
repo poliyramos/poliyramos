@@ -1,10 +1,10 @@
-## Olá eu sou a Poli!
+## Hi there, I'm Poliana Ramos 👋🏼
+Hey my name is Poliana. I'm 20 years old and I currently live in Brazil. I'm in college, in the first semester of Systems Analysis and Development, and I’m an intern at Lear Corporation.
 
-<div>
-<a href="https://github.com/poliyramos">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=poliyramos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/api?username=poliyramos&layout=compact&langs_count=16&theme=radical"/>
-</div>
+
+This GitHub repository serves as a space where I share projects, learning experiences, and accomplishments throughout my journey. Please feel free to explore and follow my progress!
+
+
 
 ##
 
