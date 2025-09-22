@@ -1,10 +1,9 @@
 ## Hi there, I'm Poliana Ramos 👋🏼
-Hey my name is Poliana. I'm 20 years old and I currently live in Brazil. I'm in college, in the first semester of Systems Analysis and Development, and I’m an intern at Lear Corporation.
-
-
+Hey my name is Poliana. I'm 21 years old and I currently live in Brazil. I'm in college, in the first semester of Systems Analysis and Development, and I’m an intern at Lear Corporation.
 This GitHub repository serves as a space where I share projects, learning experiences, and accomplishments throughout my journey. Please feel free to explore and follow my progress!
 
-
+Olá, meu nome é Poliana. Tenho 21 anos e atualmente moro no Brasil. Estou na faculdade, no primeiro semestre de Análise e Desenvolvimento de Sistemas, e sou estagiária na Lear Corporation.
+Este repositório do GitHub serve como um espaço onde compartilho projetos, experiências de aprendizado e conquistas ao longo da minha jornada. Sinta-se à vontade para explorar e acompanhar meu progresso!
 
 
 <a href="ramospoliana00@gmail.com">
